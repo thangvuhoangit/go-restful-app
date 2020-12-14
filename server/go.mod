@@ -1,3 +1,3 @@
-module server-app
+module server
 
 go 1.15
