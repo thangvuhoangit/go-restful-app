@@ -10,7 +10,7 @@ build:
 	chmod +x bin/server
 
 buildServer:
-	go build -o bin/server $(PROJECT)/server
+	go build -o bin/server $(PROJECT)/server-app
 	chmod +x bin/server
 
 runServer:
