@@ -1,3 +1,3 @@
-module restful-app
+module go-restful-app
 
 go 1.15
